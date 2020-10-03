@@ -1,4 +1,4 @@
-# tja1145--raw-register-parser
+# tja1145-raw-register-parser
 tja1145 -raw-register-parser
 
 tja1145 raw register value blob parser tja1145 binary register value blob parser (interpreter)
