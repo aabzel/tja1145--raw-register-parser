@@ -1,0 +1,8 @@
+
+reg addr: 01 reg val: 0x01 Ob_0000_0001
+reg addr: 04 reg val: 0x00 Ob_0000_0000
+reg addr: 06 reg val: 0x00 Ob_0000_0000
+reg addr: 07 reg val: 0x00 Ob_0000_0000
+reg addr: 08 reg val: 0x00 Ob_0000_0000
+reg addr: 09 reg val: 0x00 Ob_0000_0000
+reg addr: 10 reg val: 0x00 Ob_0000_0000
